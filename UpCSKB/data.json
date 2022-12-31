@@ -1,0 +1,23 @@
+[
+  {
+    "username": "tvpnamec",
+    "password": "phuoctk",
+    "server": 1,
+    "zone": 19,
+    "idMap": 99
+  },
+  {
+    "username": "vietphuocit",
+    "password": "phuoctk",
+    "server": 1,
+    "zone": 18,
+    "idMap": 99
+  },
+  {
+    "username": "phuoccntt19",
+    "password": "phuoctk",
+    "server": 1,
+    "zone": 17,
+    "idMap": 99
+  }
+]
